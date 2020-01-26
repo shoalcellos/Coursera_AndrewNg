@@ -7,6 +7,8 @@ import matplotlib.pyplot as plt
 def plotData(x, y):
 
     # ====================== YOUR CODE HERE ======================
+    # Readings    : https://matplotlib.org/api/_as_gen/matplotlib.pyplot.scatter.html
+    
     # Instructions: Plot the training data into a figure using the 
     #               plt.scatter and plt.show functions. Set the axes labels using
     #               the "xlabel" and "ylabel" functions. Assume the 
